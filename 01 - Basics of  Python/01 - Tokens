@@ -1,0 +1,35 @@
+# Tokens in Python
+
+The smallest individual unit of a python program is called a token
+Tokens can be in the form of:
+1. Keywords
+2. Identifiers(Names)
+3. Literals
+4. Operators
+5. Punctuations
+
+
+
+### Keywords
+It is a pre-defined word which has a special meaning to that languages compiler.
+They are reserved for special purposes and must not be used as an Identifier
+
+
+Some Common Keywords in python
+```
+False       assert      del         for         in         or            while
+None        break       elif        from        is         pass          with
+True        class       else        global      lambda     raise         yield
+and         continue    except      if          nonlocal   return
+as          def         finally     import      not        try
+```
+
+### Identifiers
+Identifiers are the names 
+
+### Literals
+
+
+### Operators
+
+### Punctuations
